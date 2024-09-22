@@ -265,7 +265,6 @@ const PaintManagerProvider: React.FC<CurrentPDFProviderProps> = ({ children }) =
     }
 
     if (mode === MODES.DRAW) {
-      console.log("123")
       ctx.beginPath()
       ctx.moveTo(startPosition.x, startPosition.y)
       ctx.lineTo(offsetX, offsetY)
