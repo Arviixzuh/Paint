@@ -9,7 +9,7 @@
 **A modern, interactive web-based drawing application built with React, TypeScript, and Tailwind CSS.
 Draw, sketch, and create artworks directly in your browser with ease.**
 
-[🚀 Live Demo](https://paint-delta.vercel.app)
+[Live Demo](https://paint-delta.vercel.app)
 
 </div>
 
@@ -63,7 +63,7 @@ Highlights:
 * 📏 Adjustable brush sizes
 * ↩️ Undo / Redo functionality
 * 🗑️ Clear canvas option
-* 💾 Export artwork as PNG
+* 💾 Export / import artwork as PDF
 * 📱 Fully responsive design for desktop & mobile
 
 ---
